@@ -1,3 +1,5 @@
+//Sugestão de código para o pong usando o Gemini
+
 import pygame
 import random
 
