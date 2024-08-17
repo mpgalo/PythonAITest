@@ -1,3 +1,4 @@
+# Sugestão de código para o pong usando o GitHub Copilot
 import turtle
 
 # Configuração da janela
