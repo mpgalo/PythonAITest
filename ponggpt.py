@@ -1,3 +1,4 @@
+# Sugestão de código para o pong usando o GitHub Copilot
 import pygame
 import sys
 
