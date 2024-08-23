@@ -1,4 +1,4 @@
-# Sugestão de código para o pong usando o Gemini
+# Sugestão de código para o pong usando o Gemini para comparação entre IAs
 import pygame
 import random
 
