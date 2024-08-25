@@ -1,4 +1,4 @@
-# Sugestão de código para o pong usando o GitHub Copilot
+# Sugestão de código para o pong usando o GitHub Copilot para comparação entre IAs
 import turtle
 
 # Configuração da janela
