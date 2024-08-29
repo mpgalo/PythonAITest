@@ -1,4 +1,4 @@
-# Sugestão de código para o pong usando o ChatGpt
+# Sugestão de código para o pong usando o ChatGpt para comparação entre IAs
 import pygame
 import sys
 
